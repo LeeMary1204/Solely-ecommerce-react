@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyATamX9ZzNmNHgyfCxUG1FLJcqaKLMGdkY",
-    authDomain: "ecommerce1-d3ea5.firebaseapp.com",
-    projectId: "ecommerce1-d3ea5",
-    storageBucket: "ecommerce1-d3ea5.appspot.com",
-    messagingSenderId: "256761661458",
-    appId: "1:256761661458:web:c3dc9b31d07b0a5e6ff0cb"
+    apiKey: "AIzaSyB7RqWD06vBAakIY-Q7WGl4TZ8iHqwS-Yo",
+    authDomain: "solelyecommercereact.firebaseapp.com",
+    projectId: "solelyecommercereact",
+    storageBucket: "solelyecommercereact.appspot.com",
+    messagingSenderId: "221610451941",
+    appId: "1:221610451941:web:8a226ae75760116fae850c"
 };
 
 export default firebaseConfig;
